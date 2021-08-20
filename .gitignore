@@ -3,3 +3,6 @@
 /common/target/
 /mapper/target/
 /service/target/
+/.idea/
+/fmmall.iml
+/log/
