@@ -1,0 +1,5 @@
+# Project exclude paths
+/beans/target/
+/common/target/
+/mapper/target/
+/service/target/
